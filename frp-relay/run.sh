@@ -26,7 +26,7 @@ auth.token = "${TOKEN}"
 name = "homeassistant"
 type = "tcp"
 localIP = "homeassistant"
-localPort = 8123
+localPort = 80
 remotePort = ${REMOTE_PORT}
 
 [proxies.transport]
