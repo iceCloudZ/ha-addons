@@ -1,5 +1,6 @@
 name: "FRP Relay"
 version: "0.1.0"
+image: ghcr.io/icecloudz/frp-relay
 slug: "frp_relay"
 description: "自建 frpc 客户端——经自有公网服务器(frp)中转 Home Assistant，配置走插件选项"
 arch:
